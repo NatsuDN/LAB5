@@ -1,0 +1,20 @@
+.line{
+    text-decoration:line-through;
+}
+body{
+    text-align:center;
+    background-color: red;
+}
+h1{
+    border-style: solid;
+    background-color: black;
+    border-width: 10px;
+    color: white;
+}
+#Button,#input{
+    background-color: black;
+    color: white;
+}
+ul,li{
+    color: white;
+}
